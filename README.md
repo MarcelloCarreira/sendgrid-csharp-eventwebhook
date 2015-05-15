@@ -1,14 +1,21 @@
 # sendgrid-csharp-eventwebhook
+
 Process the json from SendGrid - Event WebHook into object
 
 +Categories working
+
 So you can have one category only (string) or multiple categories (array) as an object (categories)
 
+
 +Timestamp to DateTime
+
 So it´s easy to search dates and integrate
 
+
 +Auth optional
+
 Have more security using provided basic auth to your requests
+
 
 Usage:
 
